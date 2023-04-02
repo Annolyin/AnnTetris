@@ -1,0 +1,8 @@
+﻿Game.obj : error LNK2019: unresolved external symbol InitWindow referenced in function main
+Game.obj : error LNK2019: unresolved external symbol WindowShouldClose referenced in function main
+Game.obj : error LNK2019: unresolved external symbol BeginDrawing referenced in function main
+Game.obj : error LNK2019: unresolved external symbol EndDrawing referenced in function main
+Game.obj : error LNK2019: unresolved external symbol SetTargetFPS referenced in function main
+Game.obj : error LNK2019: unresolved external symbol IsKeyPressed referenced in function main
+Game.obj : error LNK2019: unresolved external symbol DrawRectangle referenced in function "void __cdecl DrawBoard(void)" (?DrawBoard@@YAXXZ)
+H:\AnnTetris\x64\Debug\Game.exe : fatal error LNK1120: 7 unresolved externals
